@@ -55,7 +55,7 @@
 |-------------|-------|
 | **42 Gyeongsan** | CS Fundamentals, System Programming, Peer Learning |
 | **JPyRust Project** | **Zero-Config Bridge Library** (Java-Rust-Python Integration) |
-| **42 Cabi (Backend Lead)** | **Performance Tuning** (150ms → 56ms), DB Locking Strategy |
+| **42 subak (Backend Lead)** | **Performance Tuning** (150ms → 56ms), DB Locking Strategy |
 | **42 Asia Hackathon** | **AI Infra Architecture** (Redis Queue, Rust Shimmy) |
 | **Minishell** | **Low-level Programming**, Process & Memory Management |
 
