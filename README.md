@@ -14,8 +14,6 @@
 
 ## 👋 About Me
 
-> **"답을 찾을 때까지 멈추지 않는, 집요함이 무기인 개발자"**
->
 > What do System Stability and Deep Diving have in common? They both require getting to the bottom of the problem.
 > I don't just write code; I engineer stability. My journey involves bridging languages (Java-Python-Rust) at the memory level and optimizing high-traffic systems to ensure data integrity.
 > Currently, I am refining my skills in **Backend Architecture** and **System Programming** at **42 Gyeongsan**.
@@ -68,7 +66,6 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=farmer0010&theme=github_dark)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=farmer0010&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=farmer0010&theme=github_dark)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=farmer0010&theme=github_dark)
