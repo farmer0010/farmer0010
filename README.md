@@ -55,7 +55,7 @@
 | **42 Gyeongsan** | CS Fundamentals, System Programming, Peer Learning |
 | **JPyRust Project** | **Zero-Config Bridge Library** (Java-Rust-Python Integration) |
 | **42 Cabi (Backend Lead)** | **Performance Tuning** (150ms → 56ms), DB Locking Strategy |
-| **42 Asia Hackathon** | **AI Infra Architecture** (Redis Queue, Rust Shimmy), Tech Winner |
+| **42 Asia Hackathon** | **AI Infra Architecture** (Redis Queue, Rust Shimmy) |
 | **Minishell** | **Low-level Programming**, Process & Memory Management |
 
 ---
@@ -73,23 +73,9 @@
 
 </div>
 
-<div align="center">
-
-### Contribution Graph
-
-<img src="https://ghchart.rshah.org/219138/farmer0010" alt="farmer0010's Github chart" />
-
-</div>
-
 ---
 
 ## 🤝 Connect
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=farmer0010&color=blueviolet&style=flat&label=visitors)
-
-</div>
 
 - **Email:** [zmqkf16@naver.com](mailto:zmqkf16@naver.com)
 - **GitHub:** [github.com/farmer0010](https://github.com/farmer0010)
