@@ -14,9 +14,10 @@
 
 ## 👋 About Me
 
-> What do System Stability and Deep Diving have in common? They both require getting to the bottom of the problem.
-> I don't just write code; I engineer stability. My journey involves bridging languages (Java-Python-Rust) at the memory level and optimizing high-traffic systems to ensure data integrity.
-> Currently, I am refining my skills in **Backend Architecture** and **System Programming** at **42 Gyeongsan**.
+> 단순히 코드를 짜는 것을 넘어, 시스템의 안정성(Stability)을 설계하는 데 집중합니다.
+> Java와 Python, Rust를 메모리 레벨에서 연결하거나, 대규모 트래픽 상황에서 데이터 정합성을 지키는 등
+> "깊이 있는 기술"로 문제를 해결하는 과정을 즐깁니다.
+> 현재 **42경산**에서 시스템 프로그래밍과 백엔드 아키텍처 역량을 다지고 있습니다.
 
 ---
 
