@@ -56,6 +56,8 @@
 | Organization / Project | Focus |
 |-------------|-------|
 | **42 Gyeongsan** | CS Fundamentals, System Programming, Peer Learning |
+| **Webserv** | **I/O Multiplexing (epoll)**, HTTP/1.1 Parsers, Non-blocking Async CGI Pipeline, RAII Resource Management |
+| **Inception** | **Multi-container DevOps Architecture**, Docker Compose, System Administration, Network & Volume Isolation, TLS (Nginx) |
 | **Hexagonal Memo API** | **Hexagonal Architecture (Ports & Adapters)**, FastAPI, DynamoDB Single Table Design, API Authorization, Boto3 Mock Testing |
 | **Serverless Cloud Infra** | **Layered Infrastructure (IaC)**, AWS (Lambda, API Gateway, DynamoDB, RDS), OIDC Security, Multi-layer Terraform |
 | **JPyRust Project** | **Zero-Config Bridge Library** (Java-Rust-Python Integration) |
