@@ -56,6 +56,8 @@
 | Organization / Project | Focus |
 |-------------|-------|
 | **42 Gyeongsan** | CS Fundamentals, System Programming, Peer Learning |
+| **Hexagonal Memo API** | **Hexagonal Architecture (Ports & Adapters)**, FastAPI, DynamoDB Single Table Design, API Authorization, Boto3 Mock Testing |
+| **Serverless Cloud Infra** | **Layered Infrastructure (IaC)**, AWS (Lambda, API Gateway, DynamoDB, RDS), OIDC Security, Multi-layer Terraform |
 | **JPyRust Project** | **Zero-Config Bridge Library** (Java-Rust-Python Integration) |
 | **42 subak (Backend Lead)** | **Performance Tuning** (150ms → 56ms), DB Locking Strategy |
 | **42 Asia Hackathon** | **AI Infra Architecture** (Redis Queue, Rust Shimmy) |
